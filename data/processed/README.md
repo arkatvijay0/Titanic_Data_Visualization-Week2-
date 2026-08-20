@@ -1,5 +1,5 @@
 
-# 4️⃣ PROCESSED DATA README
+# PROCESSED DATA README
 
 
 This folder contains the cleaned and analysis-ready version of the Titanic passenger dataset.
