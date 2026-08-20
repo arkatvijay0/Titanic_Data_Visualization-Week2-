@@ -184,3 +184,9 @@ However, fare should not be interpreted as an independent cause of survival beca
 The relationship between age and fare was relatively weak, indicating that age alone does not strongly explain ticket fare.
 
 ---
+
+👨‍💻 Author
+
+Vijay Kumar A G
+
+M.Tech – Data Science
